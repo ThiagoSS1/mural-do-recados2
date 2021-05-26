@@ -17,7 +17,7 @@ MuralRecados - Em andamento 🚧
 $ Mural Recados$ - O Mural do Recados é uma aplicação para exibir mensagens, onde é possível cadastrar e excluir as mensagens .
 
 
-Projeto desenvolvido durante a **Bootcamp da GrowDev k** oferecida pela [GrowDev].
+Projeto desenvolvido durante a **Bootcamp da GrowDev ** oferecida pela [GrowDev].
 O  BootCamp é uma experiência online com muito conteúdo prático
 ---
 
